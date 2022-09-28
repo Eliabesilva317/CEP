@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { FiSearch } from 'react-icons/fi';
 import './styles.css';
+import "./src/styles.css";
 
 import api from "./services/api";
 
